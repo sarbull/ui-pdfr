@@ -89,7 +89,8 @@
     // Custom Globals
     "globals"       : {        // additional predefined global variables
         "angular": true,
-        "grunt": true
+        "grunt": true,
+        "jspdf": true
     },
     "predef": [
         "module",
