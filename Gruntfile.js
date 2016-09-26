@@ -82,7 +82,7 @@
     },
     watch: {
       scripts: {
-        files: ['src/**/*.*'],
+        files: ['src/**/*.*', 'dist/**/*.*'],
         tasks: ['default'],
         options: {
           spawn: false,
